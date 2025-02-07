@@ -6,3 +6,4 @@ yfinance
 wbgapi
 pygooglenews
 pytrends
+ta
