@@ -6,4 +6,4 @@ yfinance
 wbgapi
 pygooglenews
 pytrends
-ta
+finta
