@@ -8,3 +8,4 @@ wbgapi
 pygooglenews
 pytrends
 finta
+trafilatura
